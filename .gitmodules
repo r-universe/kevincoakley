@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rehydratoR"]
+	path = rehydratoR
+	url = https://github.com/kevincoakley/rehydrator
+	shallow = true
+	registered = true
